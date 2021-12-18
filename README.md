@@ -1,4 +1,4 @@
-#Liferay Information Collection Provider
+# Liferay Information Collection Provider
 
 This is an example implementation of information collection provider where you can inject external data from a remote source into Liferay as a Collection which can be used with Collection Display Widget to render the content.
 
